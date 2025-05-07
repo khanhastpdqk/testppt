@@ -1310,7 +1310,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6A8rubRM3hq" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6A8rubRM3hq" displaytext="Module 1" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6A8rubRM3hq.6W65ToQLHy2" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6A8rubRM3hq.5fjdLNXXgl8" displaytext="Untitled Slide" expand="false" type="slide" />
@@ -1327,6 +1327,23 @@
             <slidelink slideid="_player.6A8rubRM3hq.5bsOey77rfi" displaytext="3- đúng" expand="false" type="slide" />
             <slidelink slideid="_player.6A8rubRM3hq.5hOx7gDDfQF" displaytext="3- sai" expand="false" type="slide" />
             <slidelink slideid="_player.6A8rubRM3hq.6nfwUmeTgeS" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5Wh4AiCJtPF" displaytext="Module 2" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5Wh4AiCJtPF.5htBA5qQGVn" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.60VNMhw6u5T" displaytext="HĐTT 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.5ZkE1UZDC1T" displaytext="Home" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.65A0W4S6LHQ" displaytext="Insert" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.6a4IPNPqfVo" displaytext="Design" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.66JpLUu3IMX" displaytext="Review" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.5uSCffDonny" displaytext="View" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.5daJ4fy1TN8" displaytext="Transitions" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.6rUQf3TyONR" displaytext="Animations" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.6GRtazh6Ztv" displaytext="File" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.6UeFqTSMKBJ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.5dblo1dfnqJ" displaytext="HĐTT3" expand="false" type="slide" />
+            <slidelink slideid="_player.5Wh4AiCJtPF.6DpKJog0Spl" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
